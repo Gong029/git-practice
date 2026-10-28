@@ -1,0 +1,3 @@
+# 设备名不能为空；采集周期的单位是毫秒，范围为 200～5000。
+device_name=orange-pi-demo
+interval_ms=1000
